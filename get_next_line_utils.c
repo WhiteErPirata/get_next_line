@@ -96,7 +96,7 @@ void	ft_strlcat_plus(char *dst, char *src)
 		if (dst[c - 1] == '\n')
 			break ;
 	}
-	if (src[c])
+	if (src[d])
 		ft_strlcat(src, src + d);
 	return ;
 }
