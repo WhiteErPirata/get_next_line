@@ -14,7 +14,7 @@
 # define GET_NEXT_LINE_H
 
 # ifndef BUFFER_SIZE
-#  define BUFFEER_SIZE 512
+#  define BUFFER_SIZE 512
 # endif
 
 # include <stdlib.h>
